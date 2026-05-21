@@ -7,3 +7,10 @@ var nameVal ="Admin";
 
 // calling the function
 welcomeMsg(nameVal);
+
+// function declaration
+function print(name){
+    console.log(name);
+}
+print("gfg");
+print("Neha");
